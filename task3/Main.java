@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /**
  * Sistem Pengelolaan Data Buku dengan Array - Interactive System
- * Task 3: Pengelolaan Data Buku (Bobot 30%)
+ * Task 3: Pengelolaan Data Buku
  * 
  * Sistem yang berjalan terus menerus dengan menu interaktif:
  * 1. Array untuk menyimpan data buku dengan atribut: judul, pengarang, status ketersediaan
@@ -20,7 +20,7 @@ public class Main {
         System.out.println("=======================================================");
         System.out.println("     SISTEM PENGELOLAAN DATA BUKU - INTERACTIVE MODE");
         System.out.println("=======================================================");
-        System.out.println("Task 3: Pengelolaan Data Buku dengan Array (Bobot 30%)\n");
+        System.out.println("Task 3: Pengelolaan Data Buku dengan Array\n");
         
         // Inisialisasi sistem
         initializeSystem();
